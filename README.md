@@ -1,7 +1,5 @@
 ### Gustavo's GitHub profile 👋
 
-![](https://komarev.com/ghpvc/?username=gnovaro)
-
 <!--
 **gnovaro/gnovaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
