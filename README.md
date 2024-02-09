@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning kubernetes, DDD (Domain Driven Design), to play the guitar
+- 🌱 I’m currently learning terraform, ansible, kubernetes, DDD (Domain Driven Design)
 - 💬 Ask me about Barcelona, Buenos Aires, Argentina, wine, technology, TV shows and movies
 
 ### 🌎 My Languages 🌎
 - 🇪🇸 Spanish: Native
 - 🇺🇸 English: Intermediate
+- 🇮🇹 Italian: Basic
